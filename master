@@ -16,6 +16,16 @@ void Prime (int *);
 
 int main()
 {
+	cout<< "=================================================="<<endl;
+	cout<< "Praktikum Pemrograman Terstruktur"<<endl;
+	cout<< "Tugas Pengganti Pertemuan 4"<<endl<<endl;
+	cout<< "Anggota Kelompok:"<<endl;
+	cout<< "-Muhammad Bintang Firdaus (1917051045)"<<endl;
+	cout<< "-Achmad Romadoni          (1917051055)"<<endl;
+	cout<< "-Raymond Faraz Yandika    (1917051059)"<<endl;
+	cout<< "=================================================="<<endl;
+	cout << "Mengumpulkan Bilangan Prima dari Kumpulan Bilangan"<<endl;
+	cout<< "=================================================="<<endl;
 	int n;
 	int *pn = &n;
 	cout << "Masukkan banyak angka : ";
